@@ -6,5 +6,7 @@ Retro Wheels Emporium Catalogue is an online platform dedicated to classic car e
 - Explore a curated selection of iconic vintage cars with images and descriptions.
 ### Add to Cart: 
 - Easily add your favorite cars to the cart for later purchase.
-## Responsive Design:
+### Responsive Design:
 - The website is designed to be responsive, ensuring a seamless browsing experience across different devices.
+
+![Alt text](img.png)
