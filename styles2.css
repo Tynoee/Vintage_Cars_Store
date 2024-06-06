@@ -1,0 +1,110 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, nav, section, footer {
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  header {
+    display: inline-block;
+    background-color:#333 ;
+    padding-left: 50px;
+    padding-right: 200px;
+    display:flex;
+    color: white;
+  }
+  header p{
+    padding-left: 150px;
+    padding-right: 2px;
+    font-family: Montserrat;
+    font-size: 30px;
+    color: #D2B48C;
+  }
+ 
+
+  
+
+  /* Navigation styles */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #D2B48C;
+    color: #fff;
+  }
+  
+  
+  /* Product listing styles */
+  
+  .product{
+    margin:150px auto;
+    width:100%;
+    
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+  }
+  .product img{
+    float:left;
+    border: 3px solid #FFFFF0;
+    border-radius: 10px;
+    margin-right: 20px;
+    transition: transform 0.5s
+  }
+  .product img:hover{
+    transform:translateY(-20px);
+  }
+  .text-box h2{
+    font-size:42px
+  }
+  .text-box p{
+    font-size: 20px;
+  }
+
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  .header{
+    background: radial-gradient(#D2B48C,#FFFFF0)
+}
+  footer video{
+    float: left;
+  }
+.btn{
+  background: #B46719;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition:background 0.5s;
+}
+.btn:hover{
+  background: #563434;
+}
+@media screen and (max-width: 700px) {
+  .text-box p{
+    font-size: 20px;
+    font-family: Helvetica;
+    color: blue;
+  }
+}
