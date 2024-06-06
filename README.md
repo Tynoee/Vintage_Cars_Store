@@ -1,2 +1,10 @@
 # Vintage_Cars_Store
-Retro Wheels Emporium Catalogue.com, an online catalogue for classic car enthusiasts. The web application provides a platform for users to explore and learn about a curated collection of vintage automobiles, ranging from iconic models
+Retro Wheels Emporium Catalogue is an online platform dedicated to classic car enthusiasts. This project showcases a vintage car collection available for purchase, providing detailed information about each car along with an option to add them to the cart.
+
+# Features:
+Vintage Car Collection: 
+-Explore a curated selection of iconic vintage cars with images and descriptions.
+Add to Cart: 
+Easily add your favorite cars to the cart for later purchase.
+Responsive Design:
+-The website is designed to be responsive, ensuring a seamless browsing experience across different devices.
